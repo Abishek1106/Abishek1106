@@ -1,5 +1,22 @@
-Show Image
-
+<svg width="100%" viewBox="0 0 680 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradientBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#764ba2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f093fb;stop-opacity:1" />
+    </linearGradient>
+    <style>
+      @keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-10px); } }
+      .float-text { animation: float 3s ease-in-out infinite; }
+    </style>
+  </defs>
+  <rect width="680" height="200" fill="url(#gradientBg)"/>
+  <circle cx="120" cy="80" r="45" fill="rgba(255,255,255,0.1)" />
+  <circle cx="600" cy="140" r="60" fill="rgba(255,255,255,0.08)" />
+  <text x="340" y="80" text-anchor="middle" font-size="48" font-weight="bold" fill="white" class="float-text">ABISHEK G</text>
+  <text x="340" y="120" text-anchor="middle" font-size="18" fill="rgba(255,255,255,0.95)">Full Stack Developer | Python | Web Technologies</text>
+  <text x="340" y="150" text-anchor="middle" font-size="14" fill="rgba(255,255,255,0.85)">Building Efficient & Scalable Applications 🚀</text>
+</svg>
 
 👨‍💻 About Me
 
@@ -28,37 +45,109 @@ pythonclass AbishekG:
 
 me = AbishekG()
 
+<svg width="100%" viewBox="0 0 680 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .card-bg { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+      .title-text { font-size: 20px; font-weight: bold; fill: #70a5fd; }
+      .label-text { font-size: 12px; fill: #8b949e; }
+      .value-text { font-size: 13px; fill: #c9d1d9; }
+      .icon-circle { fill: #bf91f3; }
+    </style>
+  </defs>
+  <rect x="40" y="20" width="600" height="240" rx="12" class="card-bg"/>
+  <circle cx="80" cy="70" r="28" class="icon-circle"/>
+  <text x="80" y="78" text-anchor="middle" font-size="24" font-weight="bold" fill="#0d1117">AG</text>
+  <text x="125" y="55" class="title-text">Abishek G</text>
+  <text x="125" y="75" class="value-text">Aspiring Software Developer</text>
+  <text x="125" y="92" class="label-text">📍 Coimbatore, Tamil Nadu, India</text>
+  <line x1="60" y1="120" x2="620" y2="120" stroke="#30363d" stroke-width="1"/>
+  <text x="60" y="155" class="label-text">📧 EMAIL</text>
+  <text x="60" y="173" class="value-text">abishekg106@gmail.com</text>
+  <text x="60" y="205" class="label-text">📱 PHONE</text>
+  <text x="60" y="223" class="value-text">+91 6381879049</text>
+  <text x="380" y="155" class="label-text">💼 LINKEDIN</text>
+  <text x="380" y="173" class="value-text">bit.ly/4pe4a6s</text>
+  <text x="380" y="205" class="label-text">🐙 GITHUB</text>
+  <text x="380" y="223" class="value-text">github.com/Abishek1106</text>
+</svg>
 
 🛠️ Tech Stack
 
-Languages
+<svg width="100%" viewBox="0 0 680 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .category-title { font-size: 14px; font-weight: bold; fill: #70a5fd; }
+      .skill-badge { fill: #1f6feb; stroke: #58a6ff; stroke-width: 1; rx: 6; }
+      .skill-text { font-size: 12px; fill: #ffffff; }
+      .section-bg { fill: #0d1117; stroke: #30363d; stroke-width: 0.5; }
+    </style>
+  </defs>
+  <rect x="40" y="20" width="280" height="140" rx="8" class="section-bg"/>
+  <text x="60" y="45" class="category-title">Languages</text>
+  <rect x="55" y="60" width="70" height="28" class="skill-badge"/>
+  <text x="90" y="80" text-anchor="middle" class="skill-text">Python</text>
+  <rect x="145" y="60" width="55" height="28" class="skill-badge"/>
+  <text x="172" y="80" text-anchor="middle" class="skill-text">SQL</text>
+  <rect x="220" y="60" width="70" height="28" class="skill-badge"/>
+  <text x="255" y="80" text-anchor="middle" class="skill-text">HTML5</text>
+  <rect x="55" y="100" width="55" height="28" class="skill-badge"/>
+  <text x="82" y="120" text-anchor="middle" class="skill-text">CSS3</text>
+  <rect x="360" y="20" width="280" height="140" rx="8" class="section-bg"/>
+  <text x="380" y="45" class="category-title">Frameworks</text>
+  <rect x="375" y="60" width="65" height="28" class="skill-badge"/>
+  <text x="407" y="80" text-anchor="middle" class="skill-text">Django</text>
+  <rect x="460" y="60" width="60" height="28" class="skill-badge"/>
+  <text x="490" y="80" text-anchor="middle" class="skill-text">Flask</text>
+  <rect x="375" y="100" width="95" height="28" class="skill-badge"/>
+  <text x="422" y="120" text-anchor="middle" class="skill-text">JavaScript</text>
+  <rect x="40" y="180" width="280" height="120" rx="8" class="section-bg"/>
+  <text x="60" y="205" class="category-title">Tools & DevOps</text>
+  <rect x="55" y="220" width="50" height="28" class="skill-badge"/>
+  <text x="80" y="240" text-anchor="middle" class="skill-text">Git</text>
+  <rect x="125" y="220" width="65" height="28" class="skill-badge"/>
+  <text x="157" y="240" text-anchor="middle" class="skill-text">GitHub</text>
+  <rect x="210" y="220" width="65" height="28" class="skill-badge"/>
+  <text x="242" y="240" text-anchor="middle" class="skill-text">VS Code</text>
+  <rect x="55" y="260" width="70" height="28" class="skill-badge"/>
+  <text x="90" y="280" text-anchor="middle" class="skill-text">Azure</text>
+  <rect x="360" y="180" width="280" height="120" rx="8" class="section-bg"/>
+  <text x="380" y="205" class="category-title">Databases</text>
+  <rect x="375" y="220" width="60" height="28" class="skill-badge"/>
+  <text x="405" y="240" text-anchor="middle" class="skill-text">MySQL</text>
+  <rect x="455" y="220" width="65" height="28" class="skill-badge"/>
+  <text x="487" y="240" text-anchor="middle" class="skill-text">SQLite</text>
+  <rect x="375" y="260" width="50" height="28" class="skill-badge"/>
+  <text x="400" y="280" text-anchor="middle" class="skill-text">SQL</text>
+</svg>
 
-Show Image
-Show Image
-Show Image
-Show Image
+🚀 Featured Projects
 
-Frameworks & Libraries
-
-Show Image
-Show Image
-
-Cloud & DevOps
-
-Show Image
-Show Image
-Show Image
-
-Databases
-
-Show Image
-Show Image
-
-Tools & IDEs
-
-Show Image
-Show Image
-
+<svg width="100%" viewBox="0 0 680 350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .project-card { fill: #0d1117; stroke: #30363d; stroke-width: 1; }
+      .project-title { font-size: 15px; font-weight: bold; fill: #70a5fd; }
+      .project-stack { font-size: 11px; fill: #8b949e; }
+      .project-desc { font-size: 12px; fill: #c9d1d9; }
+      .metric { font-size: 13px; fill: #58a6ff; font-weight: bold; }
+    </style>
+  </defs>
+  <rect x="40" y="20" width="600" height="100" rx="8" class="project-card"/>
+  <text x="60" y="50" class="project-title">🅿️ SmartCar Parking System</text>
+  <text x="60" y="68" class="project-stack">Stack: Python | ML | IoT | SQL | Mobile App</text>
+  <text x="60" y="88" class="project-desc">IoT-based system optimizing parking space allocation with real-time sensors</text>
+  <text x="60" y="107" class="metric">📊 35% efficiency improvement</text>
+  <rect x="40" y="135" width="600" height="100" rx="8" class="project-card"/>
+  <text x="60" y="165" class="project-title">🍔 Online Food Management System</text>
+  <text x="60" y="183" class="project-stack">Stack: Python | HTML | CSS | SQL | Payment Integration</text>
+  <text x="60" y="203" class="project-desc">Full-featured food ordering platform with real-time tracking & inventory</text>
+  <text x="60" y="222" class="metric">👥 100+ concurrent users supported</text>
+  <rect x="40" y="250" width="600" height="85" rx="8" class="project-card"/>
+  <text x="60" y="275" class="project-title">📱 Responsive Web Interfaces</text>
+  <text x="60" y="293" class="project-stack">Stack: HTML | CSS | JavaScript | Bootstrap | UI/UX Design</text>
+  <text x="60" y="313" class="project-desc">Multiple responsive applications demonstrating modern design principles</text>
+</svg>
 
 📊 GitHub Statistics
 
@@ -101,11 +190,6 @@ Demonstrated strong problem-solving and debugging skills during application deve
 
 
 </details>
-
-🚀 Featured Projects
-
-ProjectStackHighlights🅿️ SmartCar Parking SystemPython, ML, IoT, SQLIoT-based system optimizing parking space allocation with real-time sensors, ML predictions, and mobile app integration. Improved parking efficiency by 35%🍔 Online Food ManagementPython, HTML, CSS, SQLFull-featured food ordering platform with real-time order tracking, inventory management, and secure payment processing. Handled 100+ concurrent users📱 Responsive Web InterfacesHTML, CSS, JavaScriptMultiple responsive web applications demonstrating modern UI/UX design principles and cross-device compatibility
-
 
 🏆 Achievements & Certifications
 

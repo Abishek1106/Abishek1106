@@ -1,8 +1,5 @@
-<div align="center">
 Show Image
 
-</div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Aspiring+Software+Developer;Python+%7C+SQL+%7C+Web+Dev;Building+Efficient+Applications;Problem+Solver+%26+Tech+Enthusiast" alt="Typing SVG" />
 
 👨‍💻 About Me
 
@@ -146,6 +143,19 @@ DegreeInstitutionYearScoreB.E. Computer ScienceSNS College of Engineering2022-Pr
 📞 Connect With Me
 
 <div align="center">
+Contact Information
+
+Email: abishekg106@gmail.com
+
+Phone: 6381879049 | +91-6381879049
+
+LinkedIn: https://bit.ly/4pe4a6s
+
+GitHub: https://github.com/Abishek1106
+
+</div>
+<div align="center">
+Show Image
 Show Image
 Show Image
 Show Image
